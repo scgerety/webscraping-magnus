@@ -17,4 +17,10 @@ class ChesscomSpider(scrapy.Spider):
                 break
         tablehead = response.xpath('//table')[0].xpath('thead')
         headers = [th.extract() for th in tablehead.xpath('tr').xpath('th/text()')]
+        tbody = response.xpath('//table')[0].xpath('//tbody')[0]
+        for row in tbody.xpath('//tr'):
+            player1, rating1, player2, rating2 = [cell.xpath('a/div/span/text()').extract() for cell in row.xpath('td')]
+            opening_moves = row.xpath(td/a)[1].xpath('span/text()')[0].extract()
+            opening_name = row.xpath(td/a)[1].xpath('span/text()')[1].extract()
+            
 
