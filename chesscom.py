@@ -22,5 +22,8 @@ class ChesscomSpider(scrapy.Spider):
             player1, rating1, player2, rating2 = [cell.xpath('a/div/span/text()').extract() for cell in row.xpath('td')]
             opening_moves = row.xpath(td/a)[1].xpath('span/text()')[0].extract()
             opening_name = row.xpath(td/a)[1].xpath('span/text()')[1].extract()
+            result = tbody.xpath('//tr').xpath('td')[1].xpath('a/text()')[0].extract()
+            moves = tbody.xpath('//tr').xpath('td')[2].xpath('a/text()')[0].extract()
+            year = tbody.xpath('//tr').xpath('td')[3].xpath('a/text()')[0].extract()
             
 
