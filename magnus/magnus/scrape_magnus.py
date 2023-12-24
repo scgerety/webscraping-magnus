@@ -4,7 +4,11 @@ document for later use.
 """
 
 import requests
+import os
+
+current_directory = os.path.dirname(__file__)
+file = os.path.join(current_directory, "spiders/magnus-download.html")
 
 html = requests.get("https://www.chess.com/games/magnus-carlsen")
-with open("magnus-download", "w") as _f:
+with open(file, "w") as _f:
     _f.write(html.text)
