@@ -39,7 +39,7 @@ class ChesscomSpider(scrapy.Spider):
         cursor.execute(magnus_db)
         connection.commit()
 
-        tbody = table.xpath('//tbody')[0] # 
+        tbody = response.xpath('//table')[0].xpath('//tbody')[0] # 
         for row in tbody.xpath('//tr'):
             player1, rating1, player2, rating2 = [cell.xpath('a/div/span/text()').extract() for cell in row.xpath('td')]
             opening_moves = row.xpath(td/a)[1].xpath('span/text()')[0].extract()

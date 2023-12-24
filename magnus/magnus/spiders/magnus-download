@@ -1,0 +1,3427 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+<!DOCTYPE html>
+<html
+  xmlns="http://www.w3.org/1999/xhtml"
+  xml:lang="en-US"
+  lang="en-US"
+  dir="ltr"
+  xmlns:fb="http://ogp.me/ns/fb#" xmlns:og="http://ogp.me/ns#"
+  data-color-mode="dark"
+  class="shiftless-scrollbar  user-logged-out dark-mode">
+
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# game: http://ogp.me/ns/game#">
+        <meta charset="utf-8" />
+    <meta name="ROBOTS" content="NOODP" />
+    <meta name="ROBOTS" content="NOYDIR" />
+        <meta name="verify-v1" content="TgxixMKtxcQ+9NUdD7grKbzw3tAl3iJWlTPSPKt9t0I=" />
+    <meta name="p:domain_verify" content="314c7ba9469cc171a12a46b43e0e2aed" />
+    <meta name="google-site-verification" content="n7BdKb0xn1E9tRJXvmMxE3Ynr-QajBOi1yA1srT4Nrc" />
+
+          <meta name="apple-itunes-app" content="app-id=329218549">
+      
+              <meta name="description" content="View or download the best chess games of Magnus Carlsen. You can search and sort by color played, year, moves, and more." />
+      
+        <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
+  
+    <link rel="preconnect" href="//www.chess.com">
+  <link rel="preconnect" href="//images.chesscomfiles.com">
+
+    <link rel="dns-prefetch" href="//www.chess.com">
+  <link rel="dns-prefetch" href="//images.chesscomfiles.com">
+
+        
+    
+<link
+  as="font"
+  crossorigin="crossorigin"
+  href="/bundles/web/fonts/chessglyph-v3/chessglyph-v3.ff9d64d4.woff2"
+  rel="preload"
+  type="font/woff2">
+
+<link
+  as="font"
+  crossorigin="crossorigin"
+  href="/bundles/web/fonts/montserrat-700.2213e098.woff2"
+  rel="preload"
+  type="font/woff2">
+
+<link
+  as="font"
+  crossorigin="crossorigin"
+  href="/bundles/web/fonts/montserrat-800.2d88ac8b.woff2"
+  rel="preload"
+  type="font/woff2">
+
+    
+  
+  
+<link rel="mask-icon" href="/bundles/web/favicons/safari-pinned-tab.1bf62bbf.svg" color="#5D9948">
+
+<link rel="apple-touch-icon" sizes="180x180" href="/bundles/web/favicons/apple-touch-icon.7aaa2d1f.png">
+
+<link rel="alternate icon" type="image/png" href="/bundles/web/favicons/favicon-32x32.adae7142.png">
+
+<link rel="icon" href="/bundles/web/favicons/favicon.5d6cb047.svg" type="image/svg+xml">
+
+    
+
+
+    
+  
+      
+  
+  
+      <link href="/bundles/app/css/main.client.ba1ffe5c.css"
+      type="text/css"
+      rel="stylesheet" />
+  
+  
+
+      
+  
+      
+  
+  
+      <link href="/bundles/app/css/sprites-v2.client.a913e3d7.css"
+      type="text/css"
+      rel="stylesheet" />
+  
+  
+
+
+  
+    
+  
+      
+  
+      
+  
+  
+      <link data-href="/bundles/app/css/alerts.client.92ebf452.css"
+      type="text/css"
+      rel="stylesheet" />
+  
+  
+
+
+          
+  
+      
+  
+  
+      <link href="/bundles/app/css/global-ads.client.3d59de5c.css"
+      type="text/css"
+      rel="stylesheet" />
+  
+  
+  
+<meta name="language-banner-styles" content="/bundles/app/css/language-banner.client.3d4eaf76.css">
+<meta name="language-banner-scripts" content="/bundles/app/js/language-banner.client.d2f307c5.js">
+
+
+      
+  
+      
+  
+  
+      <link href="/bundles/app/css/checkmate.client.fcbddfcf.css"
+      type="text/css"
+      rel="stylesheet" />
+  
+  
+
+      
+  
+      
+  
+  
+      <link href="/bundles/app/css/ready-to-play-banner.client.520acaf0.css"
+      type="text/css"
+      rel="stylesheet" />
+  
+  
+
+      
+  
+      
+  
+  
+      <link href="/bundles/app/css/navigation.client.7e5f0c12.css"
+      type="text/css"
+      rel="stylesheet" />
+  
+  
+
+
+
+  <link
+    href="/bundles/app/css/navigation-footer.client.d83d9b05.css"
+    type="text/css" rel="stylesheet" />
+
+        
+
+      
+  
+      
+  
+  
+      <link href="/bundles/app/css/content.client.b690af8d.css"
+      type="text/css"
+      rel="stylesheet" />
+  
+  
+
+      
+  
+      
+  
+  
+      <link href="/bundles/app/css/layout.client.95dea78b.css"
+      type="text/css"
+      rel="stylesheet" />
+  
+  
+
+
+      
+  
+      
+  
+  
+      <link href="/bundles/app/css/master-games-search.client.f1789185.css"
+      type="text/css"
+      rel="stylesheet" />
+  
+  
+
+  <link href="https://www.chess.com/dyngenerated/active-theme-css?board_size=200&pieces_size=150" type="text/css" rel="stylesheet" id="active-theme-variables" />
+  <meta name="theme-color" />
+
+      
+          
+  <title>The Best Chess Games of Magnus Carlsen - Chess.com</title>
+
+        
+            <meta property="og:title" content="The Best Chess Games of Magnus Carlsen" />
+
+          <meta property="og:url" content="https://www.chess.com/games/search" />
+
+          <meta property="fb:app_id" content="2427617054" />
+
+          <meta property="og:description" content="View or download the best chess games of Magnus Carlsen. You can search and sort by color played, year, moves, and more." />
+
+          <meta property="og:type" content="website" />
+
+          <meta property="og:image" content="https://www.chess.com/share/games/magnus-carlsen" />
+
+          <meta property="og:site_name" content="Chess.com" />
+
+  
+    
+          <meta name="twitter:title" content="The Best Chess Games of Magnus Carlsen" />
+
+          <meta name="twitter:card" content="summary_large_image" />
+
+          <meta name="twitter:site" content="@chesscom" />
+
+          <meta name="twitter:description" content="View or download the best chess games of Magnus Carlsen. You can search and sort by color played, year, moves, and more." />
+
+          <meta name="twitter:image" content="https://www.chess.com/share/games/magnus-carlsen" />
+
+  
+  
+        <link rel="alternate" href="https://www.chess.com/games/magnus-carlsen" hreflang="en" /><link rel="alternate" href="https://www.chess.com/es/games/magnus-carlsen" hreflang="es" /><link rel="alternate" href="https://www.chess.com/fr/games/magnus-carlsen" hreflang="fr" /><link rel="alternate" href="https://www.chess.com/de/games/magnus-carlsen" hreflang="de" /><link rel="alternate" href="https://www.chess.com/pl/games/magnus-carlsen" hreflang="pl" /><link rel="alternate" href="https://www.chess.com/ru/games/magnus-carlsen" hreflang="ru" /><link rel="alternate" href="https://www.chess.com/sv/games/magnus-carlsen" hreflang="sv" /><link rel="alternate" href="https://www.chess.com/el/games/magnus-carlsen" hreflang="el" /><link rel="alternate" href="https://www.chess.com/pt/games/magnus-carlsen" hreflang="pt" /><link rel="alternate" href="https://www.chess.com/it/games/magnus-carlsen" hreflang="it" /><link rel="alternate" href="https://www.chess.com/zh/games/magnus-carlsen" hreflang="zh" /><link rel="alternate" href="https://www.chess.com/ja/games/magnus-carlsen" hreflang="ja" /><link rel="alternate" href="https://www.chess.com/ko/games/magnus-carlsen" hreflang="ko" /><link rel="alternate" href="https://www.chess.com/nl/games/magnus-carlsen" hreflang="nl" /><link rel="alternate" href="https://www.chess.com/hy/games/magnus-carlsen" hreflang="hy" /><link rel="alternate" href="https://www.chess.com/bg/games/magnus-carlsen" hreflang="bg" /><link rel="alternate" href="https://www.chess.com/hr/games/magnus-carlsen" hreflang="hr" /><link rel="alternate" href="https://www.chess.com/cs/games/magnus-carlsen" hreflang="cs" /><link rel="alternate" href="https://www.chess.com/da/games/magnus-carlsen" hreflang="da" /><link rel="alternate" href="https://www.chess.com/fi/games/magnus-carlsen" hreflang="fi" /><link rel="alternate" href="https://www.chess.com/hu/games/magnus-carlsen" hreflang="hu" /><link rel="alternate" href="https://www.chess.com/lt/games/magnus-carlsen" hreflang="lt" /><link rel="alternate" href="https://www.chess.com/no/games/magnus-carlsen" hreflang="no" /><link rel="alternate" href="https://www.chess.com/ro/games/magnus-carlsen" hreflang="ro" /><link rel="alternate" href="https://www.chess.com/sk/games/magnus-carlsen" hreflang="sk" /><link rel="alternate" href="https://www.chess.com/sl/games/magnus-carlsen" hreflang="sl" /><link rel="alternate" href="https://www.chess.com/tr/games/magnus-carlsen" hreflang="tr" /><link rel="alternate" href="https://www.chess.com/uk/games/magnus-carlsen" hreflang="uk" /><link rel="alternate" href="https://www.chess.com/af/games/magnus-carlsen" hreflang="af" /><link rel="alternate" href="https://www.chess.com/ar/games/magnus-carlsen" hreflang="ar" /><link rel="alternate" href="https://www.chess.com/az/games/magnus-carlsen" hreflang="az" /><link rel="alternate" href="https://www.chess.com/be/games/magnus-carlsen" hreflang="be" /><link rel="alternate" href="https://www.chess.com/bs/games/magnus-carlsen" hreflang="bs" /><link rel="alternate" href="https://www.chess.com/et/games/magnus-carlsen" hreflang="et" /><link rel="alternate" href="https://www.chess.com/fa/games/magnus-carlsen" hreflang="fa" /><link rel="alternate" href="https://www.chess.com/gl/games/magnus-carlsen" hreflang="gl" /><link rel="alternate" href="https://www.chess.com/he/games/magnus-carlsen" hreflang="he" /><link rel="alternate" href="https://www.chess.com/hi/games/magnus-carlsen" hreflang="hi" /><link rel="alternate" href="https://www.chess.com/id/games/magnus-carlsen" hreflang="id" /><link rel="alternate" href="https://www.chess.com/is/games/magnus-carlsen" hreflang="is" /><link rel="alternate" href="https://www.chess.com/ka/games/magnus-carlsen" hreflang="ka" /><link rel="alternate" href="https://www.chess.com/lv/games/magnus-carlsen" hreflang="lv" /><link rel="alternate" href="https://www.chess.com/ms/games/magnus-carlsen" hreflang="ms" /><link rel="alternate" href="https://www.chess.com/pt-BR/games/magnus-carlsen" hreflang="pt-BR" /><link rel="alternate" href="https://www.chess.com/sq/games/magnus-carlsen" hreflang="sq" /><link rel="alternate" href="https://www.chess.com/sr/games/magnus-carlsen" hreflang="sr" /><link rel="alternate" href="https://www.chess.com/vi/games/magnus-carlsen" hreflang="vi" /><link rel="alternate" href="https://www.chess.com/zh-HK/games/magnus-carlsen" hreflang="zh-HK" /><link rel="alternate" href="https://www.chess.com/zh-TW/games/magnus-carlsen" hreflang="zh-TW" /><link rel="alternate" href="https://www.chess.com/fil/games/magnus-carlsen" hreflang="fil" /><link rel="alternate" href="https://www.chess.com/nl-BE/games/magnus-carlsen" hreflang="nl-BE" /><link rel="alternate" href="https://www.chess.com/bn/games/magnus-carlsen" hreflang="bn" /><link rel="alternate" href="https://www.chess.com/tk/games/magnus-carlsen" hreflang="tk" /><link rel="alternate" href="https://www.chess.com/uz/games/magnus-carlsen" hreflang="uz" /><link rel="alternate" href="https://www.chess.com/ca/games/magnus-carlsen" hreflang="ca" /><link rel="alternate" href="https://www.chess.com/ur/games/magnus-carlsen" hreflang="ur" />  
+        <link rel="canonical" href="https://www.chess.com/games/magnus-carlsen">
+  
+    
+              
+    
+    <link rel="manifest" href="/manifest.json" crossorigin="use-credentials">
+
+      
+    
+  
+        
+  
+        
+
+      <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){ dataLayer.push(arguments); }
+      (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-WQJVC73');</script>
+  
+    <script>
+      document.querySelector('meta[name="theme-color"]')
+        .setAttribute('content', getComputedStyle(document.documentElement).getPropertyValue('--theme-background-color') || '#312E2B');
+    </script>
+
+  
+  <script>
+window.chesscom = window.chesscom || {};
+
+
+  
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              
+window.chesscom.features = ['ads_aditude_integration', 'ads_custom_targeting', 'amplitude_domain_proxy', 'amplitude_send_events_on_page_exit', 'amplitude_onboarding_step_complete', 'analysis_wasm_torch', 'chessboard_beta', 'classroom_board_setup_fix', 'client_router_replace_hostname', 'client_user_play_streak', 'client_year_in_chess_2023', 'clubs_product_redesign', 'comments_bad_request', 'duolingo_amplitude_tracking', 'events_search_v2', 'gift_timeline_visual', 'hide_game_stats_accuracy', 'hide_verified_link', 'home_game_review_optimization', 'home_hide_activity_optimization', 'home_hide_awards_optimization', 'home_hide_clubs_and_club_events_optimization', 'home_hide_friends_optimization', 'home_hide_leagues_optimization', 'home_hide_stats_optimization', 'home_hide_streamers_optimization', 'home_hide_tournaments_optimization', 'home_play_vs_bot', 'home_re_add_old_features', 'home_re_add_quick_links', 'insights_chart_icons', 'legal_changes_dec_2023', 'livechess_kill_engines', 'marketing_banners', 'marketing_middleware_serverside_device_id_generation', 'move_event_search_building_to_backend', 'new_eco_data_webapp', 'new_gifting_experience', 'new_move_list_replace_hml', 'diagrams_new_move_list', 'new_onboarding_flow', 'new_second_chance_note_waive_appeal', 'new_twitter_x_icon', 'oauth_custom_registration', 'payments_paypal_resolve_currency_fix', 'payments_special_offer_discount', 'payments_premium_post_upgrade_modals', 'puzzle_battle_challenges_callback_reduction', 'refactored_vml_web_component', 'rewarded_video_aditude_renderer', 'rewarded_video_client_analysis', 'rewarded_video_client_lessons', 'rewarded_video_fix', 'rewarded_video_client_enabled', 'sanction_belarus_flag', 'sanction_russia_flag', 'share_modal_dynboard_removal', 'stockfish_15_1', 'stockfish_16', 'tinymce_loading_placeholder', 'update_puzzle_modal_puzzle_count', 'use_amplitude_8', 'use_fake_worker_stockfish', 'vue_3_default_rating_option_infinity', 'vue_3_fix_captured_pieces', 'vue_3_fix_puzzle_rush_play_again', 'vue_3_outgoing_challenge_clone', 'vue_3_ref_collection_reactivity', 'vue_3_v_model_migration_cc_checkbox', 'vue_3_v_model_migration_cc_radiobutton', 'vue_3_v_model_migration_v5_input', 'vue_3_v_model_migration_v5_select', 'vue_3_v_model_migration_v5_switch', 'web_chat_redesign', 'web_new_merch_url', 'web_duolingo_flair', 'chess_tv_stream_embed', 'toaster_center_live_club_challenges', 'settings_http_cache', 'toaster_center_mobile', 'client_year_in_chess_2023', 'toaster_center_castling_update_notification', 'toaster_center_streaks_notification_no_auto_dismiss', 'pubsub_client_reconnect_401'];
+</script>
+
+      <script>
+  window.chesscom = window.chesscom || {};
+
+  // Before adding global experiments please check in #experiments_chat slack channel for the performance costs
+  
+  
+  
+      window.chesscom.experiments = {}
+  </script>
+  </head>
+
+
+  
+    
+  
+  
+
+  
+  
+
+<body class=" theme-background tinymce-loading-placeholder lazy-load-aspect-ratio "  onkeydown="if (event.keyCode === 9) this.classList.add('keyboard-navigation-in-use')"
+onmousedown="this.classList.remove('keyboard-navigation-in-use')"
+>
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WQJVC73"height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+      <div class="base-layout">
+                                            <div class="base-sidebar">
+          
+  
+
+
+
+<div id="login-register-modal"></div>
+
+<div id="shareable-game-url-modal"></div>
+
+<div id="message-modal"></div>
+
+<div id="first-time-modal"></div>
+
+<div id="achievements-modal"></div>
+
+
+  <div id="offline-challenge-toaster" data-badge="challenges" data-badge-count="0"></div>
+
+  <div id="old-browser-modal"></div>
+
+
+
+<div
+  id="sb"
+  style=""
+  class="nav-component guest"
+  data-constant-message-unread-count-max="100"
+  data-notifications-limit="200"
+  data-route-login-and-go="https://www.chess.com/login_and_go"
+  data-route-register="https://www.chess.com/register">
+    <div id="sb-cover" data-mobile-nav-toggle></div>
+
+    <div class="nav-action toggle close" data-mobile-nav-toggle>
+    <span class="icon-font-chess x"></span>
+  </div>
+
+    <div data-nav-top>
+    
+        <a
+      aria-label="Chess.com - Play Chess Online"
+      class="nav-link-component nav-link-main-design chess-logo-wrapper sprite chess-logo no-panel"
+      data-nav-link="home"
+      data-amplitude-nav-selection="home"
+      href="https://www.chess.com/"
+      target="_self">
+      <span class="nav-link-text mobile-only">Home</span>
+
+              
+                  <span class="navigation-badge-component" data-badge="alerts" data-badge-count="0"></span>
+                  </a>
+    
+    
+        <a
+      class="nav-link-component nav-link-main-design nav-link-top-level sprite play-top"
+      data-amplitude-nav-selection="play"
+      data-nav-link="play"
+      href="https://www.chess.com/play"
+      target="_self">
+      <span class="nav-link-text">Play</span>
+              <span class="navigation-badge-component" data-badge="games" data-badge-count="0"></span>
+          </a>
+    
+        <div
+      class="nav-panel-component"
+      data-nav-panel="play"
+    ></div>
+    
+        <a
+      class="nav-link-component nav-link-main-design nav-link-top-level sprite puzzles-top"
+      data-amplitude-nav-selection="puzzles"
+      data-nav-link="puzzles"
+      href="https://www.chess.com/puzzles/rated"
+      target="_self">
+      <span class="nav-link-text">Puzzles</span>
+    </a>
+    
+        <div
+      class="nav-panel-component"
+      data-nav-panel="puzzles"
+    ></div>
+    
+        <a
+      class="nav-link-component nav-link-main-design nav-link-top-level sprite learn-top"
+      data-amplitude-nav-selection="learn"
+      data-nav-link="learn"
+      href="https://www.chess.com/learn"
+      target="_self">
+      <span class="nav-link-text">Learn</span>
+    </a>
+    
+        <div
+      class="nav-panel-component"
+      data-nav-panel="learn"
+    ></div>
+    
+        <a
+      class="nav-link-component nav-link-main-design nav-link-top-level sprite watch-top"
+      data-amplitude-nav-selection="watch"
+      data-nav-link="watch"
+      href="https://www.chess.com/watch"
+      target="_self">
+      <span class="nav-link-text">Watch</span>
+    </a>
+    
+        <div
+      class="nav-panel-component"
+      data-nav-panel="watch"
+    ></div>
+    
+        <a
+      class="nav-link-component nav-link-main-design nav-link-top-level sprite news-top"
+      data-amplitude-nav-selection="news"
+      data-nav-link="news"
+      href="https://www.chess.com/today"
+      target="_self">
+      <span class="nav-link-text">News</span>
+    </a>
+
+    <div
+      class="nav-panel-component"
+      data-nav-panel="news"
+    ></div>
+    
+        <a
+      class="nav-link-component nav-link-main-design nav-link-top-level sprite social-page"
+      data-amplitude-nav-selection="social"
+      data-nav-link="social"
+      href="https://www.chess.com/social"
+      target="_self">
+      <span class="nav-link-text">Social</span>
+          </a>
+    
+    <div
+      class="nav-panel-component"
+      data-nav-panel="social"
+    ></div>
+
+          <button
+        aria-label="More"
+        class="nav-link-component nav-link-main-design nav-link-button nav-link-top-level sprite more-top"
+        data-amplitude-nav-selection="more"
+        goto="https://www.chess.com/more"
+        data-nav-link="more">
+        <span class="nav-link-text">More</span>
+      </button>
+    
+    
+    <div
+      class="nav-panel-component"
+      data-nav-panel="more"
+    ></div>
+    
+    
+          <div class="nav-link-wrapper">
+                <a
+          href="https://www.chess.com/search"
+          target="_self"
+          class="nav-link-component nav-link-main-design nav-link-top-level nav-search-icon"
+          aria-label="Search"
+          data-amplitude-nav-selection="subnav-search"
+          data-nav-action-search
+          data-nav-toggle-search-box>
+          <div class="nav-toggle-search-box" id="search">
+            <span class="search-icon-font icon-font-chess magnifying-glass"></span>
+          </div>
+        </a>
+
+                <div class="nav-popover nav-search" data-nav-popover-search>
+          <div class="arrow"></div>
+
+          <input
+            class="ui_v5-input-component ui_v5-input-dark nav-autofill-search"
+            type="text"
+            placeholder="Search"
+            autocomplete="off"
+            readonly="readonly"
+            data-autofocus=1 />
+        </div>
+              </div>
+
+      <div class="nav-search-form">
+        <input
+          class="ui_v5-input-component ui_v5-input-dark nav-autofill-search"
+          type="text"
+          placeholder="Search"
+          autocomplete="off"
+          readonly="readonly"
+          data-force-theme="dark" />
+      </div>
+    
+
+    
+              
+                  
+      <a
+        id="menu-cta"
+        data-amplitude-props="{&quot;source&quot;:&quot;games&quot;}"
+        href="https://www.chess.com/register?returnUrl=https://www.chess.com/games/magnus-carlsen"
+        target="_self"
+        rel="nofollow"
+        class="button auth signup register ui_v5-button-component ui_v5-button-basic-dark authentication-modal-trigger">
+        <span class="icon-font-chess icon user-plus"></span>
+
+        <span class="label">Sign Up</span>
+      </a>
+      
+            <a
+        href="https://www.chess.com/login_and_go?returnUrl=https://www.chess.com/games/magnus-carlsen"
+        target="_self"
+        rel="nofollow"
+        class="button auth login ui_v5-button-component ui_v5-button-primary login-modal-trigger">
+        <span class="icon-font-chess icon enter"></span>
+
+        <span class="label">Log In</span>
+      </a>
+                </div>
+    <div class="nav-menu-area">
+              <button
+        aria-label="Change language"
+        class="nav-action language-select"
+        type="button">
+        <span class="icon-font-chess nav-language-icon globe"></span>
+
+        <span class="nav-link-text nav-language-name">
+          English
+        </span>
+      </button>
+        
+            
+    
+              <button
+        aria-label="Light/Dark Interface"
+        class="nav-action ui-mode"
+        data-amplitude-nav-selection="subnav-uimode"
+        data-nav-ui-mode
+        type="button">
+        <div id="mode">
+          <span class="icon-font-chess darklight"></span>
+        </div>
+
+        <span class="nav-link-text">
+          <span class="light">Light UI</span>
+          <span class="dark">Dark UI</span>
+        </span>
+      </button>
+        
+            
+            
+        <button
+      type="button"
+      aria-label="Help"
+      class="nav-action has-popover help"
+      data-amplitude-nav-selection="subnav-help"
+      type="button">
+      <span class="icon-font-chess circle-question"></span>
+
+      <span class="nav-link-text">Help</span>
+    </button>
+    
+                <div class="nav-popover dark help">
+                <div class="arrow"></div>
+        
+                <button
+          type="button"
+          class="btn-link help-scout"
+          data-amplitude-nav-selection="subnav-help-askaquestion">
+          <span class="icon-font-chess circle-question"></span>
+
+          <span class="title">Ask a Question</span>
+        </button>
+        
+                <a
+          data-amplitude-nav-selection="subnav-help-reportabuse"
+          class="btn-link"
+          rel="noopener"
+          href="https://support.chess.com/collection/136-community-safety"
+          target="_blank">
+          <span class="icon-font-chess circle-block"></span>
+
+          <span class="title">Report Abuse</span>
+        </a>
+        
+                <button
+          type="button"
+          class="btn-link user-snap"
+          data-amplitude-nav-selection="subnav-help-makeasuggestion">
+          <span class="icon-font-chess lightbulb"></span>
+
+          <span class="title">Make a Suggestion</span>
+        </button>
+        
+                <a
+          data-amplitude-nav-selection="subnav-help-billingissues"
+          class="btn-link"
+          rel="noopener"
+          href="https://support.chess.com/category/135-membership-and-billing"
+          target="_blank">
+          <span class="icon-font-chess card"></span>
+
+          <span class="title">Billing Issues</span>
+        </a>
+        
+                <button
+          type="button"
+          class="btn-link user-snap"
+          data-amplitude-nav-selection="subnav-help-reportabug">
+          <span class="icon-font-chess bug"></span>
+
+          <span class="title">Report a Bug</span>
+        </button>
+              </div>
+           </div>
+  </div>
+
+
+          </div>
+      
+            <div class="base-container">
+        <div id="scroll-top-anchor"></div>
+
+                          
+                          <div id="language-banner"></div>
+        
+                            <header id="tb" class="toolbar-new-wrapper ">
+    <div class="toolbar-menu-area toolbar-menu-area-left">
+        <div class="toolbar-action toggle open" data-mobile-nav-toggle>
+      <span class="icon-font-chess menu toolbar-action-icon"></span>
+    </div>
+    
+        <a
+      href="https://www.chess.com/"
+      class="link chess-logo-wrapper sprite chess-logo"
+      aria-label="Chess.com - Play Chess Online">
+    </a>
+      </div>
+  
+          <div class="toolbar-menu-area mobile-auth-actions  ">
+  <a
+    class="mobile-auth-action ui_v5-button-component ui_v5-button-basic-dark ui_v5-button-x-small sign-up-eng"
+    href="https://www.chess.com/register?returnUrl=https://www.chess.com/games/magnus-carlsen"
+    rel="nofollow"
+    title="Sign Up">
+    Sign Up
+  </a>
+
+  <a
+    class="mobile-auth-action ui_v5-button-component ui_v5-button-primary ui_v5-button-x-small login"
+    href="https://www.chess.com/login_and_go?returnUrl=https://www.chess.com/games/magnus-carlsen"
+    rel="nofollow"
+    title="Log In">
+    Log In
+  </a>
+</div>
+      </header>
+        
+                  
+  <main class="layout-component  ">
+          <header class="layout-title ">
+          <div class="v5-title">
+    <span class="v5-title-has-icon board">
+      Chess Games Database
+    </span>
+  </div>
+      </header>
+    
+    
+    <div
+      id="vue-instance"
+      class="layout-column-one"
+      >
+
+                              <div id="leaderboard-atf-ad" class="leaderboard-atf-ad-wrapper"></div>
+  
+              
+          
+
+  <div class="v5-section">
+    <div class="v5-section-content-wide">
+              <div class="master-players-header">
+                                                        
+          
+          
+                    
+          <div class="master-players-title-wrap">
+            <h2 class="master-players-title">
+              <a href="https://www.chess.com/players/magnus-carlsen">
+                                
+    <span class="master-players-chess-title">GM</span>
+  
+
+                <span class="post-author-name">
+                  Magnus Carlsen
+                </span>
+              </a>
+            </h2>
+          </div>
+
+          <div class="master-players-image-wrapper">
+            <div class="master-players-image">
+                  
+        
+  <img
+          alt="Magnus Carlsen"
+        class=" post-view-thumbnail"
+        height="250"
+          src="https://images.chesscomfiles.com/uploads/v1/master_player/3b0ddf4e-bd82-11e8-9421-af517c2ebfed.23bcb9e8.250x250o.fe16f88558e7.jpg"
+      srcset="https://images.chesscomfiles.com/uploads/v1/master_player/3b0ddf4e-bd82-11e8-9421-af517c2ebfed.23bcb9e8.250x250o.fe16f88558e7@2x.jpg 2x"
+            width="250">
+
+            </div>
+
+                      </div>
+
+          <div class="master-players-description">
+            <div class="master-players-row">
+              <div class="master-players-name">
+                Full name
+              </div>
+
+              <div class="master-players-value">
+                Magnus Carlsen
+              </div>
+            </div>
+
+                          <div class="master-players-row">
+                <div class="master-players-name">
+                  Born
+                </div>
+
+                <div class="master-players-value">
+                  Nov 30, 1990
+
+                                      <span class="master-players-age">(age 33)&lrm;</span>                                   </div>
+              </div>
+            
+            <div class="master-players-row">
+              <div class="master-players-name">
+                Place of birth
+              </div>
+
+              <div class="master-players-value">
+                Tønsberg, Norway
+              </div>
+            </div>
+
+            <div class="master-players-row">
+              <div class="master-players-name">
+                Federation
+              </div>
+
+              <div class="master-players-value">
+                Norway
+              </div>
+            </div>
+
+            <div class="master-players-social">
+                                                                                    
+                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
+                              <div class="master-players-social-title">
+                  Profiles
+                </div>
+
+                <div class="master-players-social-links">
+                                                            <a
+                        class="master-players-social-nav-pawn master-players-social-link"
+                        href="https://www.chess.com/member/magnuscarlsen"
+                        rel="nofollow noreferrer noopener"
+                        target="_blank"
+                        title="MagnusCarlsen">
+                        <span class="icon-font-chess master-players-icon nav-pawn"></span>
+                      </a>
+                                                                                <a
+                        class="master-players-social-x-twitter master-players-social-link"
+                        href="https://twitter.com/magnuscarlsen"
+                        rel="nofollow noreferrer noopener"
+                        target="_blank"
+                        title="X (formerly Twitter)">
+                        <span class="icon-font-chess master-players-icon x-twitter"></span>
+                      </a>
+                                                                                <a
+                        class="master-players-social-facebook master-players-social-link"
+                        href="https://www.facebook.com/magnuschess/"
+                        rel="nofollow noreferrer noopener"
+                        target="_blank"
+                        title="Facebook">
+                        <span class="icon-font-chess master-players-icon facebook"></span>
+                      </a>
+                                                                                <a
+                        class="master-players-social-instagram master-players-social-link"
+                        href="https://www.instagram.com/magnus_carlsen"
+                        rel="nofollow noreferrer noopener"
+                        target="_blank"
+                        title="Instagram">
+                        <span class="icon-font-chess master-players-icon instagram"></span>
+                      </a>
+                                                                                                                      <a
+                        class="master-players-social-fide master-players-social-link"
+                        href="https://ratings.fide.com/card.phtml?event=1503014"
+                        rel="nofollow noreferrer noopener"
+                        target="_blank"
+                        title="FIDE">
+                        <span class="icon-font-chess master-players-icon fide"></span>
+                      </a>
+                                                                                <a
+                        class="master-players-social-globe master-players-social-link"
+                        href="https://magnuscarlsen.com/"
+                        rel="nofollow noreferrer noopener"
+                        target="_blank"
+                        title="Website">
+                        <span class="icon-font-chess master-players-icon globe"></span>
+                      </a>
+                                                                                <a
+                        class="master-players-social-lightbulb master-players-social-link"
+                        href="https://www.chess.com/insights/magnuscarlsen"
+                        rel="nofollow noreferrer noopener"
+                        target="_blank"
+                        title="Insights">
+                        <span class="icon-font-chess master-players-icon lightbulb"></span>
+                      </a>
+                                                      </div>
+                          </div>
+          </div>
+        </div>
+
+                  <div class="post-preview-list-component master-games-suggested-moves">
+            <h3>
+              Total Games <span class="master-games-distribution-count">4513</span>
+            </h3>
+
+            <div class="master-games-suggested-moves-items">
+              <div class="master-games-suggested-moves-list">
+                <div class="master-games-suggested-white" style="width: 49%;">
+                  <span class="master-games-percent-label">
+                                          49% Win
+                                      </span>
+                </div>
+
+                <div class="master-games-suggested-draw" style="width: 36%;">
+                  <span class="master-games-percent-label">
+                                          36% Draw
+                                      </span>
+                </div>
+
+                <div class="master-games-suggested-black" style="width: 15%;">
+                  <span class="master-games-percent-label">
+                                          15% Loss
+                                      </span>
+                </div>
+              </div>
+            </div>
+
+                          <h3>
+                As White <span class="master-games-distribution-count">2295</span>
+              </h3>
+
+              <div class="master-games-suggested-moves-items">
+                <div class="master-games-suggested-moves-list">
+                  <div class="master-games-suggested-white" style="width: 56%;">
+                    <span class="master-games-percent-label">
+                                              56% Win
+                                          </span>
+                  </div>
+
+                  <div class="master-games-suggested-draw" style="width: 32%;">
+                    <span class="master-games-percent-label">
+                                              32% Draw
+                                          </span>
+                  </div>
+
+                  <div class="master-games-suggested-black" style="width: 12%;">
+                    <span class="master-games-percent-label">
+                                              12% Loss
+                                          </span>
+                  </div>
+                </div>
+              </div>
+            
+                          <h3>
+                As Black <span class="master-games-distribution-count">2218</span>
+              </h3>
+
+              <div class="master-games-suggested-moves-items">
+                <div class="master-games-suggested-moves-list">
+                  <div class="master-games-suggested-white" style="width: 42%;">
+                    <span class="master-games-percent-label">
+                                              42% Win
+                                          </span>
+                  </div>
+
+                  <div class="master-games-suggested-draw" style="width: 40%;">
+                    <span class="master-games-percent-label">
+                                              40% Draw
+                                          </span>
+                  </div>
+
+                  <div class="master-games-suggested-black" style="width: 18%;">
+                    <span class="master-games-percent-label">
+                                              18% Loss
+                                          </span>
+                  </div>
+                </div>
+              </div>
+                      </div>
+              
+              <div
+          id="master-games-container"
+          data-current-page="1"
+          data-sort-by="7"
+          data-total-pages="92">
+
+          <header class="master-games-header">
+            <h1 class="post-category-header-title">
+                              Magnus Carlsen Chess Games
+              
+                          </h1>
+
+            <div class="master-games-dropdown">
+              <div id="page-filters"></div>
+            </div>
+
+            <button
+              v-tooltip="Download Selected Games"
+              type="button"
+              disabled="disabled"
+              class="master-games-download-button"
+              aria-label="Download Selected Games">
+              <span class="icon-font-chess download master-games-download-icon"></span>
+            </button>
+          </header>
+
+          
+          <div class="master-games-table-responsive">
+            <table class="table-component table-hover master-games-table master-games-table-archive">
+              <thead>
+                <tr>
+                  <th>Players</th>
+                  <th class="master-games-text-center">Result</th>
+                  <th class="master-games-text-right">Moves</th>
+                  <th class="master-games-date">Year</th>
+                  <th class="master-games-select-all-games-cel">
+                    <label class="master-games-select-all-games">
+                      <input
+                        type="checkbox"
+                        id="master-games-check-all"
+                        aria-label="Select All Games"
+                        class="cc-checkbox-input">
+                    </label>
+                  </th>
+                </tr>
+              </thead>
+              <tbody>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;5k2\/5Q2\/p2q2B1\/4p1PP\/P3Pp2\/2P2P1K\/8\/3r4 b - - 2 48&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;b7f7&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16372061">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2859)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Samvel Ter-Sahakyan">
+                        <span class="master-games-username">Samvel Ter-Sahakyan</span>
+                                                  <span class="master-games-user-rating">(2605)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16372061"
+                      title="1. a4 Nf6 2. d4 d5 3. Nf3 Bf5">
+                        <span>
+                          1. a4 Nf6 2. d4 d5 3. Nf3 Bf5
+                        </span>
+                                              <span>
+                          Ware Opening
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16372061"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16372061"
+                      title="48">
+                      48
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16372061"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16372061"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;8\/3k4\/p1bBRp2\/2K2P2\/p1P3r1\/P2P4\/1P6\/8 b - - 2 40&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;d4c5&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16372499">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2859)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Jeffery Xiong">
+                        <span class="master-games-username">Jeffery Xiong</span>
+                                                  <span class="master-games-user-rating">(2692)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16372499"
+                      title="1. e4 c5 2. a3 g6 3. h4 d5">
+                        <span>
+                          1. e4 c5 2. a3 g6 3. h4 d5
+                        </span>
+                                              <span>
+                          Sicilian Defense: Mengarini Variation
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16372499"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16372499"
+                      title="40">
+                      40
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16372499"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16372499"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;8\/3PK3\/2k3N1\/5p1p\/4nP1P\/8\/8\/8 b - - 0 77&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;d6d7&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16372865">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2859)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Rasmus Svane">
+                        <span class="master-games-username">Rasmus Svane</span>
+                                                  <span class="master-games-user-rating">(2620)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16372865"
+                      title="1. b3 d5 2. Bb2 Bf5 3. Nf3 e6">
+                        <span>
+                          1. b3 d5 2. Bb2 Bf5 3. Nf3 e6
+                        </span>
+                                              <span>
+                          Nimzowitsch-Larsen Attack: Classical Variation
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16372865"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16372865"
+                      title="77">
+                      77
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16372865"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16372865"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;7r\/5p2\/1pk2p2\/p4R2\/3p4\/3B2P1\/P4P2\/6K1 b - - 10 46&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;b5f5&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16374171">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2859)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Ortik Nigmatov">
+                        <span class="master-games-username">Ortik Nigmatov</span>
+                                                  <span class="master-games-user-rating">(2450)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16374171"
+                      title="1. d4 Nf6 2. c4 e6 3. Nf3 d5">
+                        <span>
+                          1. d4 Nf6 2. c4 e6 3. Nf3 d5
+                        </span>
+                                              <span>
+                          Queen&#039;s Gambit Declined
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16374171"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16374171"
+                      title="46">
+                      46
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16374171"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16374171"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;8\/2p1N2k\/6pp\/3pN1r1\/3P1R2\/2P3nP\/8\/4K3 b - - 2 42&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;f1e1&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16374707">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2859)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Kamal Aghasiyev">
+                        <span class="master-games-username">Kamal Aghasiyev</span>
+                                                  <span class="master-games-user-rating">(2441)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16374707"
+                      title="1. e4 e5 2. Nf3 Nc6 3. Bb5 a6">
+                        <span>
+                          1. e4 e5 2. Nf3 Nc6 3. Bb5 a6
+                        </span>
+                                              <span>
+                          Ruy López Opening: Morphy Defense, Columbus Variation
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16374707"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16374707"
+                      title="42">
+                      42
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16374707"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16374707"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;4Q3\/5pk1\/7p\/2K5\/2B2P2\/8\/8\/3r4 b - - 7 56&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;d4c5&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16375269">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2859)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Baadur Jobava">
+                        <span class="master-games-username">Baadur Jobava</span>
+                                                  <span class="master-games-user-rating">(2578)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16375269"
+                      title="1. h4 d5 2. d4 c5 3. e3 Nc6">
+                        <span>
+                          1. h4 d5 2. d4 c5 3. e3 Nc6
+                        </span>
+                                              <span>
+                          Kádas Opening
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16375269"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16375269"
+                      title="56">
+                      56
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16375269"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16375269"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;6k1\/8\/1ppq4\/p1n2P2\/P7\/1PQ3P1\/2P2N2\/6K1 b - - 0 41&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;e4f5&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16375861">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2859)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Gata Kamsky">
+                        <span class="master-games-username">Gata Kamsky</span>
+                                                  <span class="master-games-user-rating">(2666)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16375861"
+                      title="1. b3 d5 2. Bb2 Bf5 3. Nf3 e6">
+                        <span>
+                          1. b3 d5 2. Bb2 Bf5 3. Nf3 e6
+                        </span>
+                                              <span>
+                          Nimzowitsch-Larsen Attack: Classical Variation
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16375861"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16375861"
+                      title="41">
+                      41
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16375861"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16375861"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;5B2\/5Qbk\/6p1\/8\/6qp\/6P1\/P3PPK1\/8 b - - 2 40&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;c5f8&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16376527">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2859)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Brandon Jacobson">
+                        <span class="master-games-username">Brandon Jacobson</span>
+                                                  <span class="master-games-user-rating">(2546)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16376527"
+                      title="1. b3 Nf6 2. Bb2 g6 3. g3 Bg7">
+                        <span>
+                          1. b3 Nf6 2. Bb2 g6 3. g3 Bg7
+                        </span>
+                                              <span>
+                          Nimzowitsch-Larsen Attack: Indian Variation
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16376527"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16376527"
+                      title="40">
+                      40
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16376527"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16376527"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;6k1\/p7\/1p5R\/3P4\/5pB1\/8\/P3KP2\/8 b - - 0 33&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;h4h6&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16377245">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2859)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Qingyu Yuan">
+                        <span class="master-games-username">Qingyu Yuan</span>
+                                                  <span class="master-games-user-rating">(2373)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16377245"
+                      title="1. h4 d5 2. d4 Nf6 3. e3 e6">
+                        <span>
+                          1. h4 d5 2. d4 Nf6 3. e3 e6
+                        </span>
+                                              <span>
+                          Kádas Opening
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16377245"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16377245"
+                      title="33">
+                      33
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16377245"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16377245"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;8\/7p\/3k1p2\/8\/1NK5\/1P2PP2\/P3n1PP\/8 b - - 2 44&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;b5c4&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16377949">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2859)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Oleksandr Yurovskykh">
+                        <span class="master-games-username">Oleksandr Yurovskykh</span>
+                                                  <span class="master-games-user-rating">(2328)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16377949"
+                      title="1. e3 d5 2. c4 c6 3. Nf3 Nf6">
+                        <span>
+                          1. e3 d5 2. c4 c6 3. Nf3 Nf6
+                        </span>
+                                              <span>
+                          Van&#039;t Kruijs Opening
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16377949"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16377949"
+                      title="44">
+                      44
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16377949"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16377949"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;2k5\/pp6\/2p3p1\/7p\/3Pp3\/5rRP\/PP2N3\/3K4 b - - 2 36&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;g1g3&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16396261">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2859)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Richard Rapport">
+                        <span class="master-games-username">Richard Rapport</span>
+                                                  <span class="master-games-user-rating">(2740)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16396261"
+                      title="1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6">
+                        <span>
+                          1. e4 e5 2. Nf3 Nf6 3. Nxe5 d6
+                        </span>
+                                              <span>
+                          Petrov&#039;s Defense: Classical, Karklins-Martinovsky Variation
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16396261"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16396261"
+                      title="36">
+                      36
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16396261"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16396261"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;k1Q2b2\/pp6\/1qp2p2\/3P3p\/2p2B1P\/2P5\/PP4r1\/1K1R4 b - - 1 34&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;f5c8&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16402405">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2852)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Eric Rosen">
+                        <span class="master-games-username">Eric Rosen</span>
+                                                  <span class="master-games-user-rating">(2331)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16402405"
+                      title="1. f4 d5 2. Nf3 g6 3. d3 Bg7">
+                        <span>
+                          1. f4 d5 2. Nf3 g6 3. d3 Bg7
+                        </span>
+                                              <span>
+                          Bird&#039;s Opening: Dutch Variation
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16402405"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16402405"
+                      title="34">
+                      34
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16402405"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16402405"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;6k1\/R4rb1\/4Q1pp\/pr2P3\/1n6\/6P1\/5PKP\/8 b - - 0 40&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;g4e6&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16413757">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2852)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Vladimir Kramnik">
+                        <span class="master-games-username">Vladimir Kramnik</span>
+                                                  <span class="master-games-user-rating">(2703)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16413757"
+                      title="1. e3 Nf6 2. b3 g6 3. Bb2 Bg7">
+                        <span>
+                          1. e3 Nf6 2. b3 g6 3. Bb2 Bg7
+                        </span>
+                                              <span>
+                          Indian Game: Spielmann-Indian Variation
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16413757"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16413757"
+                      title="40">
+                      40
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16413757"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16413757"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;B7\/8\/1r6\/8\/8\/2K1k3\/2P3R1\/8 w - - 1 69&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;f2e3&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16413899">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2852)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Guha Mitrabha">
+                        <span class="master-games-username">Guha Mitrabha</span>
+                                                  <span class="master-games-user-rating">(2507)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16413899"
+                      title="1. d3 Nf6 2. g3 d5 3. Nf3 c6">
+                        <span>
+                          1. d3 Nf6 2. g3 d5 3. Nf3 c6
+                        </span>
+                                              <span>
+                          Mieses Opening
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16413899"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16413899"
+                      title="68">
+                      68
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16413899"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16413899"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;8\/1PK5\/4R1pp\/5p2\/3k1p2\/8\/6PP\/1r6 b - - 1 49&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;e7e6&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16415361">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2852)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Olga Girya">
+                        <span class="master-games-username">Olga Girya</span>
+                                                  <span class="master-games-user-rating">(2263)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16415361"
+                      title="1. b3 d5 2. Bb2 Bf5 3. Nf3 e6">
+                        <span>
+                          1. b3 d5 2. Bb2 Bf5 3. Nf3 e6
+                        </span>
+                                              <span>
+                          Réti Opening: Nimzowitsch-Larsen Attack
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16415361"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16415361"
+                      title="49">
+                      49
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16415361"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16415361"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;Q7\/8\/3k2pp\/1p3p2\/8\/1p1p1P2\/3K1P1P\/8 b - - 0 45&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;a7a8&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16418473">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2852)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Shant Sargsyan">
+                        <span class="master-games-username">Shant Sargsyan</span>
+                                                  <span class="master-games-user-rating">(2628)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16418473"
+                      title="1. e3 g6 2. d4 Nf6 3. c4 Bg7">
+                        <span>
+                          1. e3 g6 2. d4 Nf6 3. c4 Bg7
+                        </span>
+                                              <span>
+                          Van&#039;t Kruijs Opening
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16418473"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16418473"
+                      title="45">
+                      45
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16418473"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16418473"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;6k1\/1p2r1p1\/p6p\/4Bp1P\/5K2\/3RP3\/P4PP1\/8 b - - 0 34&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;b2e5&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16419281">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2852)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Ori Kobo">
+                        <span class="master-games-username">Ori Kobo</span>
+                                                  <span class="master-games-user-rating">(2454)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16419281"
+                      title="1. h4 d5 2. d4 Nf6 3. Nf3 Bf5">
+                        <span>
+                          1. h4 d5 2. d4 Nf6 3. Nf3 Bf5
+                        </span>
+                                              <span>
+                          Kádas Opening
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16419281"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16419281"
+                      title="34">
+                      34
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16419281"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16419281"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;8\/P3Rppk\/6p1\/1r6\/RP4P1\/1K2P3\/5r2\/8 b - - 0 40&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;a6a7&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16420153">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2852)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Soham Kamotra">
+                        <span class="master-games-username">Soham Kamotra</span>
+                                                  <span class="master-games-user-rating">(2209)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16420153"
+                      title="1. a4 Nf6 2. a5 e5 3. e3 d5">
+                        <span>
+                          1. a4 Nf6 2. a5 e5 3. e3 d5
+                        </span>
+                                              <span>
+                          Ware Opening
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16420153"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16420153"
+                      title="40">
+                      40
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16420153"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16420153"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;br3bk1\/R2Q1p1p\/3p2p1\/3P4\/4P3\/4B1PP\/5PBK\/4q3 b - - 7 38&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;a6a7&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16445207">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2853)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Aronyak Ghosh">
+                        <span class="master-games-username">Aronyak Ghosh</span>
+                                                  <span class="master-games-user-rating">(2534)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16445207"
+                      title="1. Nf3 Nf6 2. g3 b5 3. e3 a6">
+                        <span>
+                          1. Nf3 Nf6 2. g3 b5 3. e3 a6
+                        </span>
+                                              <span>
+                          Réti Opening: King&#039;s Indian Attack, Spassky Variation
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16445207"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16445207"
+                      title="38">
+                      38
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16445207"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16445207"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;8\/5k2\/8\/8\/1R3nN1\/4K2p\/PP2nP2\/8 b - - 5 48&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;d2e3&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16445507">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2853)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Brandon Jacobson">
+                        <span class="master-games-username">Brandon Jacobson</span>
+                                                  <span class="master-games-user-rating">(2556)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16445507"
+                      title="1. d4 Nf6 2. Nf3 d5 3. g3 Bf5">
+                        <span>
+                          1. d4 Nf6 2. Nf3 d5 3. g3 Bf5
+                        </span>
+                                              <span>
+                          Queen&#039;s Pawn Opening: Pseudo-Catalan Variation
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16445507"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16445507"
+                      title="48">
+                      48
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16445507"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16445507"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;7k\/8\/5r2\/p3N3\/2P2R2\/2K5\/P7\/8 b - - 0 62&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;g4f4&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16445537">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2853)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Daniel Naroditsky">
+                        <span class="master-games-username">Daniel Naroditsky</span>
+                                                  <span class="master-games-user-rating">(2618)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16445537"
+                      title="1. d4 Nf6 2. c4 g6 3. Nc3 Bg7">
+                        <span>
+                          1. d4 Nf6 2. c4 g6 3. Nc3 Bg7
+                        </span>
+                                              <span>
+                          King&#039;s Indian Defense: Makogonov Variation
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16445537"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16445537"
+                      title="62">
+                      62
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16445537"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16445537"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;8\/8\/2p5\/Pr4p1\/1PK3k1\/2R3P1\/8\/8 b - - 2 45&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;d4c4&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16451595">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2839)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Denis Lazavik">
+                        <span class="master-games-username">Denis Lazavik</span>
+                                                  <span class="master-games-user-rating">(2488)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16451595"
+                      title="1. d4 Nf6 2. c4 e6 3. Nf3 d5">
+                        <span>
+                          1. d4 Nf6 2. c4 e6 3. Nf3 d5
+                        </span>
+                                              <span>
+                          Queen&#039;s Gambit Declined: Exchange Variation
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16451595"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16451595"
+                      title="45">
+                      45
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16451595"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16451595"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;4k3\/6K1\/6P1\/8\/8\/8\/6r1\/R7 b - - 8 71&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;a7a1&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16451637">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2839)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Rauf Mamedov">
+                        <span class="master-games-username">Rauf Mamedov</span>
+                                                  <span class="master-games-user-rating">(2632)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16451637"
+                      title="1. Nf3 Nf6 2. g3 g6 3. b3 b6">
+                        <span>
+                          1. Nf3 Nf6 2. g3 g6 3. b3 b6
+                        </span>
+                                              <span>
+                          English Opening: Symmetrical, Double Fianchetto Defense
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16451637"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16451637"
+                      title="71">
+                      71
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16451637"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16451637"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;2R5\/5k1p\/4p3\/2N2p2\/1n5P\/8\/5PP1\/5K2 b - - 0 41&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;g8c8&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16452121">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2839)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Abhimanyu Mishra">
+                        <span class="master-games-username">Abhimanyu Mishra</span>
+                                                  <span class="master-games-user-rating">(2674)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16452121"
+                      title="1. c4 c6 2. e4 d5 3. cxd5 cxd5">
+                        <span>
+                          1. c4 c6 2. e4 d5 3. cxd5 cxd5
+                        </span>
+                                              <span>
+                          Caro-Kann Defense: Accelerated Panov Attack
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16452121"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16452121"
+                      title="41">
+                      41
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16452121"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16452121"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                                              <tr
+                  class="master-games-master-game"
+                  v-board-popover="{&quot;fen&quot;:&quot;8\/1PR2pkp\/4p3\/3pP3\/6p1\/1rB3P1\/5PKP\/8 b - - 0 38&quot;,&quot;flipBoard&quot;:false,&quot;highlightedSquares&quot;:&quot;d4c3&quot;}">
+                  <td>
+                    <a
+                      class="master-games-clickable-link master-games-td-user"
+                      href="https://www.chess.com/games/view/16452145">
+                      <div class="master-games-user-tagline " title="Magnus Carlsen">
+                        <span class="master-games-username">Magnus Carlsen</span>
+                                                  <span class="master-games-user-rating">(2839)</span>
+                                              </div>
+                      <div class="master-games-user-tagline " title="Oleksandr Bortnyk">
+                        <span class="master-games-username">Oleksandr Bortnyk</span>
+                                                  <span class="master-games-user-rating">(2643)</span>
+                                              </div>
+                    </a>
+
+                    <a
+                      class="master-games-content-stats master-games-opening"
+                      href="https://www.chess.com/games/view/16452145"
+                      title="1. e4 Nf6 2. e5 Nd5 3. d4 d6">
+                        <span>
+                          1. e4 Nf6 2. e5 Nd5 3. d4 d6
+                        </span>
+                                              <span>
+                          Alekhine&#039;s Defense: Modern, Larsen Variation
+                        </span>
+                                          </a>
+                  </td>
+                  <td class="master-games-text-center">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16452145"
+                      title="1-0">
+                      1-0
+                    </a>
+                  </td>
+                  <td class="master-games-text-right">
+                    <a
+                      class="master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16452145"
+                      title="38">
+                      38
+                    </a>
+                  </td>
+                  <td>
+                    <a
+                      class="master-games-date master-games-clickable-link master-games-text-middle"
+                      href="https://www.chess.com/games/view/16452145"
+                      title="2023">
+                                              2023
+                                          </a>
+                  </td>
+                  <td class="master-games-miniboard has-popover">
+                    <label class="cc-checkbox-component master-games-select-game">
+                      <input
+                        type="checkbox"
+                        aria-label="Select the Game"
+                        data-game-id="16452145"
+                        class="cc-checkbox-input master-games-checkbox">
+                    </label>
+                  </td>
+                </tr>
+                            </tbody>
+            </table>
+          </div>
+        </div>
+
+                <div class="index-pagination">
+          
+                                                                                                                                                          
+            
+    
+  
+  <div class="ui_pagination-component">
+                  
+      <a
+      class="ui_pagination-item-component
+      ui_pagination-top pagination-scroll-to-top
+      
+      
+    "
+
+    
+          aria-label="Back to Top"
+    >
+
+          <span class="icon-font-chess ui_pagination-item-icon chevron-up"></span>
+    
+          <span>
+        Top
+      </span>
+    
+      </a>
+  
+    
+                      
+      <nav class="ui_pagination-navigation">
+                
+                        
+            
+      <div
+      class="ui_pagination-item-component
+      pagination-prev
+      
+      ui_pagination-item-disabled
+    "
+
+    
+          aria-label="Previous Page"
+    >
+
+          <span class="icon-font-chess ui_pagination-item-icon chevron-left"></span>
+    
+    
+      </div>
+  
+
+        
+                                                        
+                                
+      <a
+      class="ui_pagination-item-component
+      
+      ui_pagination-item-active
+      
+    "
+
+          href="https://www.chess.com/games/search?fromSearchShort=1&amp;p1=Magnus%20Carlsen&amp;playerId=822231"
+    
+          aria-label="Page 1"
+    >
+
+    
+          <span>
+        1
+      </span>
+    
+      </a>
+  
+                                
+      <a
+      class="ui_pagination-item-component
+      
+      
+      
+    "
+
+          href="https://www.chess.com/games/search?fromSearchShort=1&amp;p1=Magnus%20Carlsen&amp;playerId=822231&amp;page=2"
+    
+          aria-label="Page 2"
+    >
+
+    
+          <span>
+        2
+      </span>
+    
+      </a>
+  
+                                
+      <a
+      class="ui_pagination-item-component
+      
+      
+      
+    "
+
+          href="https://www.chess.com/games/search?fromSearchShort=1&amp;p1=Magnus%20Carlsen&amp;playerId=822231&amp;page=3"
+    
+          aria-label="Page 3"
+    >
+
+    
+          <span>
+        3
+      </span>
+    
+      </a>
+  
+                                
+      <a
+      class="ui_pagination-item-component
+      
+      
+      
+    "
+
+          href="https://www.chess.com/games/search?fromSearchShort=1&amp;p1=Magnus%20Carlsen&amp;playerId=822231&amp;page=4"
+    
+          aria-label="Page 4"
+    >
+
+    
+          <span>
+        4
+      </span>
+    
+      </a>
+  
+                                
+      <a
+      class="ui_pagination-item-component
+      
+      
+      
+    "
+
+          href="https://www.chess.com/games/search?fromSearchShort=1&amp;p1=Magnus%20Carlsen&amp;playerId=822231&amp;page=5"
+    
+          aria-label="Page 5"
+    >
+
+    
+          <span>
+        5
+      </span>
+    
+      </a>
+  
+        
+                    
+      <a
+      class="ui_pagination-item-component
+      pagination-next
+      
+      
+    "
+
+          href="https://www.chess.com/games/search?fromSearchShort=1&amp;p1=Magnus%20Carlsen&amp;playerId=822231&amp;page=2"
+    
+          aria-label="Next Page"
+    >
+
+          <span class="icon-font-chess ui_pagination-item-icon chevron-right"></span>
+    
+    
+      </a>
+  
+
+                      </nav>
+      </div>
+
+        </div>
+          </div>
+  </div>
+    </div>
+
+    <div class="layout-column-two">
+                    <div id="medium-rectangle-atf-ad" class="medium-rectangle-atf-ad-wrapper"></div>
+  
+      
+          
+
+  <div class="v5-section">
+              
+  <a
+    href="https://www.chess.com/games"
+    class="v5-header-link v5-header-border   "
+      >
+    <span class="v5-header-name" data-cy="section-header-name">
+      Games
+
+          </span>
+
+    <span class="icon-font-chess v5-header-chevron chevron-right"></span>
+  </a>
+
+    
+    <div class="v5-section-content-slim">
+      <div
+  id="games-search-sidebar"
+  data-initial-values="{&quot;p1&quot;:&quot;Magnus Carlsen&quot;,&quot;fixedcolors&quot;:false}"
+  data-search-form="{&quot;title&quot;:&quot;&quot;,&quot;type&quot;:&quot;object&quot;,&quot;properties&quot;:{&quot;fen&quot;:{&quot;type&quot;:&quot;string&quot;,&quot;title&quot;:&quot;fen&quot;,&quot;required&quot;:true},&quot;opening&quot;:{&quot;type&quot;:&quot;hidden&quot;,&quot;title&quot;:&quot;opening&quot;,&quot;required&quot;:false},&quot;openingId&quot;:{&quot;type&quot;:&quot;hidden&quot;,&quot;title&quot;:&quot;openingId&quot;,&quot;required&quot;:false},&quot;p1&quot;:{&quot;type&quot;:&quot;hidden&quot;,&quot;title&quot;:&quot;p1&quot;,&quot;required&quot;:false},&quot;p2&quot;:{&quot;type&quot;:&quot;hidden&quot;,&quot;title&quot;:&quot;p2&quot;,&quot;required&quot;:false},&quot;fixedcolors&quot;:{&quot;type&quot;:&quot;boolean&quot;,&quot;title&quot;:&quot;fixedcolors&quot;,&quot;widget&quot;:&quot;checkbox&quot;,&quot;required&quot;:true},&quot;lstresult&quot;:{&quot;enum&quot;:[{&quot;label&quot;:&quot;Any result&quot;,&quot;value&quot;:&quot;0&quot;},{&quot;label&quot;:&quot;White wins&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;label&quot;:&quot;Black wins&quot;,&quot;value&quot;:&quot;2&quot;},{&quot;label&quot;:&quot;Player 1 wins&quot;,&quot;value&quot;:&quot;3&quot;},{&quot;label&quot;:&quot;Player 2 wins&quot;,&quot;value&quot;:&quot;4&quot;},{&quot;label&quot;:&quot;Draw&quot;,&quot;value&quot;:&quot;5&quot;},{&quot;label&quot;:&quot;Not a Draw&quot;,&quot;value&quot;:&quot;6&quot;}],&quot;type&quot;:&quot;string&quot;,&quot;title&quot;:&quot;lstresult&quot;,&quot;required&quot;:true},&quot;lsty&quot;:{&quot;enum&quot;:[{&quot;label&quot;:&quot;=&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;label&quot;:&quot;&gt;=&quot;,&quot;value&quot;:&quot;2&quot;},{&quot;label&quot;:&quot;&lt;=&quot;,&quot;value&quot;:&quot;3&quot;}],&quot;type&quot;:&quot;string&quot;,&quot;title&quot;:&quot;lsty&quot;,&quot;required&quot;:true},&quot;year&quot;:{&quot;type&quot;:&quot;string&quot;,&quot;title&quot;:&quot;year&quot;,&quot;required&quot;:true},&quot;lstMoves&quot;:{&quot;enum&quot;:[{&quot;label&quot;:&quot;=&quot;,&quot;value&quot;:&quot;1&quot;},{&quot;label&quot;:&quot;&gt;=&quot;,&quot;value&quot;:&quot;2&quot;},{&quot;label&quot;:&quot;&lt;=&quot;,&quot;value&quot;:&quot;3&quot;}],&quot;type&quot;:&quot;string&quot;,&quot;title&quot;:&quot;lstMoves&quot;,&quot;required&quot;:true},&quot;moves&quot;:{&quot;type&quot;:&quot;string&quot;,&quot;title&quot;:&quot;moves&quot;,&quot;required&quot;:true},&quot;mr&quot;:{&quot;type&quot;:&quot;string&quot;,&quot;title&quot;:&quot;mr&quot;,&quot;required&quot;:true},&quot;sort&quot;:{&quot;type&quot;:&quot;hidden&quot;,&quot;title&quot;:&quot;sort&quot;,&quot;required&quot;:false},&quot;search&quot;:{&quot;type&quot;:&quot;submit&quot;,&quot;title&quot;:&quot;search&quot;,&quot;required&quot;:false}}}">
+    <div>
+    <p class="games-search-sidebar-title">
+      Select an opening or player to search
+    </p>
+
+    <form class="games-search-sidebar-form">
+      
+              <div>
+          <div class="form-autocomplete-component">
+            <div class="ui_v5-input-group-component form-autocomplete-input">
+              <input
+                class="ui_v5-input-component ui_v5-input-group-space-left"
+                placeholder="Opening"
+                type="text" />
+
+              <span class="icon-font-chess ui_v5-input-group-icon ui_v5-input-group-left magnifying-glass"></span>
+            </div>
+          </div>
+        </div>
+              <div>
+          <div class="form-autocomplete-component">
+            <div class="ui_v5-input-group-component form-autocomplete-input">
+              <input
+                class="ui_v5-input-component ui_v5-input-group-space-left"
+                placeholder="Player 1"
+                type="text" />
+
+              <span class="icon-font-chess ui_v5-input-group-icon ui_v5-input-group-left magnifying-glass"></span>
+            </div>
+          </div>
+        </div>
+              <div>
+          <div class="form-autocomplete-component">
+            <div class="ui_v5-input-group-component form-autocomplete-input">
+              <input
+                class="ui_v5-input-component ui_v5-input-group-space-left"
+                placeholder="Player 2"
+                type="text" />
+
+              <span class="icon-font-chess ui_v5-input-group-icon ui_v5-input-group-left magnifying-glass"></span>
+            </div>
+          </div>
+        </div>
+      
+      <div class="cc-checkbox-component">
+        <input
+          class="cc-checkbox-input"
+          disabled="disabled"
+          type="checkbox"/>
+
+        <label class="cc-checkbox-label">
+          Fixed Colors
+        </label>
+      </div>
+
+      <div class="games-search-sidebar-bottom">
+        <button type="submit" class="ui_v5-button-component ui_v5-button-small ui_v5-button-primary ui_v5-button-min-width">
+          Search
+        </button>
+
+        <a class="games-search-sidebar-link">
+          <span class="games-search-sidebar-advanced">
+            Advanced
+
+            <span class="icon-font-chess chevron-bottom games-search-sidebar-icon"></span>
+          </span>
+        </a>
+      </div>
+    </form>
+  </div>
+</div>
+    </div>
+  </div>
+
+  
+  <div class="v5-section">
+        
+  <div class="v5-header v5-header-border  ">
+    <span class="v5-header-name" data-cy="section-header-name">
+      Latest comments
+
+          </span>
+  </div>
+
+
+    <div class="v5-section-content-slim">
+              <div class="master-games-latest-item">
+          <a
+            href="https://www.chess.com/games/view/15781655"
+            class="master-games-latest-link">
+            Viktor Korchnoi vs. Irina Krush, 2007
+          </a>
+        </div>
+              <div class="master-games-latest-item">
+          <a
+            href="https://www.chess.com/games/view/830635"
+            class="master-games-latest-link">
+            Vassily Ivanchuk vs. Judit Polgar, 1997
+          </a>
+        </div>
+              <div class="master-games-latest-item">
+          <a
+            href="https://www.chess.com/games/view/15711091"
+            class="master-games-latest-link">
+            Joseph McPhillips vs. Akshaya Kalaiyalahan, 2019
+          </a>
+        </div>
+              <div class="master-games-latest-item">
+          <a
+            href="https://www.chess.com/games/view/969971"
+            class="master-games-latest-link">
+            Garry Kasparov vs. Veselin Topalov, 1999
+          </a>
+        </div>
+              <div class="master-games-latest-item">
+          <a
+            href="https://www.chess.com/games/view/16574317"
+            class="master-games-latest-link">
+            Jan Zienkiewicz vs. Jean-Marc Degraeve, 2023
+          </a>
+        </div>
+          </div>
+  </div>
+
+    
+
+                    <div id="medium-rectangle-btf-ad" class="medium-rectangle-btf-ad-wrapper"></div>
+  
+          </div>
+  </main>
+
+                          
+<footer id="navigation-footer" class="navigation-footer-component navigation-footer-hide">
+  <div class="navigation-footer-pages-component navigation-footer-left">
+    <a href="https://support.chess.com"
+      class="navigation-footer-page-component"
+      target="_blank" rel="noopener">
+      Help
+    </a>
+
+          <a href="https://www.chess.com/terms"
+        class="navigation-footer-page-component"
+        target="_blank">
+        Chess Terms
+      </a>
+    
+    
+          <a href="https://www.chess.com/about"
+        class="navigation-footer-page-component"
+        target="_blank">
+        About
+      </a>
+    
+    <a href="https://www.chess.com/jobs"
+      class="navigation-footer-page-component"
+      target="_blank">
+      Jobs
+    </a>
+
+    <a href="https://www.chess.com/club/chess-com-developer-community"
+      class="navigation-footer-page-component"
+      target="_blank">
+      Developers
+    </a>
+
+    <a href="https://www.chess.com/legal/user-agreement"
+      class="navigation-footer-page-component"
+      target="_blank">
+      User Agreement
+    </a>
+
+    <a href="https://www.chess.com/legal/privacy"
+      class="navigation-footer-page-component"
+      target="_blank">
+      Privacy
+    </a>
+
+    <a href="https://www.chess.com/legal/fair-play"
+      class="navigation-footer-page-component"
+      target="_blank">
+      Fair Play
+    </a>
+
+    <a href="https://www.chess.com/legal/community"
+      class="navigation-footer-page-component"
+      target="_blank">
+      Community
+    </a>
+
+        <a href="https://www.chess.com/partners"
+      class="navigation-footer-page-component"
+      target="_blank">
+      Partners
+    </a>
+    
+    <a href="https://www.chess.com/legal/compliance"
+      class="navigation-footer-page-component"
+      target="_blank">
+      Compliance
+    </a>
+
+    
+    <a href="https://www.chess.com/"
+      class="navigation-footer-page-component">
+      Chess.com &copy; 2023
+    </a>
+  </div>
+
+  <div class="navigation-footer-platforms-component">
+    <a aria-label="App for iOS / iPhone / iPad"
+      class="navigation-footer-platform-component navigation-footer-platforms-apple"
+      href="https://www.chess.com/play/apps/ios">
+          
+  <span
+    class="icon-font-chess navigation-footer-platform-icon apple"
+    
+    ></span>
+
+    </a>
+
+    <a aria-label="App for Android"
+      class="navigation-footer-platform-component navigation-footer-platforms-android navigation-footer-platforms-gutter"
+      href="https://www.chess.com/play/apps/android">
+          
+  <span
+    class="icon-font-chess navigation-footer-platform-icon android"
+    
+    ></span>
+
+    </a>
+
+    <a aria-label="TikTok"
+      class="navigation-footer-platform-component navigation-footer-platforms-tiktok"
+      href="https://www.tiktok.com/@chess">
+          
+  <span
+    class="icon-font-chess navigation-footer-platform-icon tiktok"
+    
+    ></span>
+
+    </a>
+
+          <a aria-label="X (formerly Twitter)"
+        class="navigation-footer-platform-component navigation-footer-platforms-x-twitter"
+        href="https://twitter.com/chesscom">
+            
+  <span
+    class="icon-font-chess navigation-footer-platform-icon x-twitter"
+    
+    ></span>
+
+      </a>
+    
+    <a aria-label="Youtube"
+      class="navigation-footer-platform-component navigation-footer-platforms-youtube"
+      href="https://www.youtube.com/user/wwwChesscom">
+          
+  <span
+    class="icon-font-chess navigation-footer-platform-icon youtube"
+    
+    ></span>
+
+    </a>
+
+    <a aria-label="Twitch"
+      class="navigation-footer-platform-component navigation-footer-platforms-twitch"
+      href="https://www.twitch.tv/chess">
+          
+  <span
+    class="icon-font-chess navigation-footer-platform-icon twitch"
+    
+    ></span>
+
+    </a>
+
+    <a aria-label="Instagram"
+      class="navigation-footer-platform-component navigation-footer-platforms-instagram"
+      href="https://www.instagram.com/wwwchesscom">
+          
+  <span
+    class="icon-font-chess navigation-footer-platform-icon instagram"
+    
+    ></span>
+
+    </a>
+
+    <a aria-label="Discord"
+      class="navigation-footer-platform-component navigation-footer-platforms-discord"
+      href="https://discord.gg/3VbUQME">
+          
+  <span
+    class="icon-font-chess navigation-footer-platform-icon discord"
+    
+    ></span>
+
+    </a>
+
+      </div>
+</footer>
+              </div>
+    </div>
+  
+        <script>
+  window.PubSub = {};
+  window.PubSub.options = {
+    environment: 'prod',
+    url: {
+              base: 'https://www.chess.com',
+        baseWss: 'wss://www.chess.com',
+        chat: 'https://www.chess.com/service/chat/',
+        classroom: 'https://www.chess.com/service/classroom/',
+        insights: 'https://www.chess.com/service/insights/',
+        invitations: 'https://www.chess.com/service/invitations/',
+        matcher: 'https://www.chess.com/service/matcher/',
+        game: 'https://www.chess.com/service/play/',
+        play: 'https://www.chess.com/service/play/',
+        playerObserver: 'https://www.chess.com/service/player-observer/idl',
+        presence: 'https://www.chess.com/service/presence/',
+        pubsub: 'wss://www.chess.com/pubsub',
+        ratings: 'https://www.chess.com/service/ratings/',
+        reactions: 'https://www.chess.com/service/reactions/',
+        settings: 'https://www.chess.com/service/settings/',
+        topplayers: 'https://www.chess.com/service/topplayers/',
+        gamelist: 'https://www.chess.com/service/gamelist/',
+        userProperties: 'https://www.chess.com/service/user-properties',
+        users: '',
+          },
+      };
+</script>
+  
+        
+      
+  
+  <div id="widget-alert-flash" class="alerts-container">
+      </div>
+
+  
+    
+    
+
+  <script type="text/javascript">
+    var Config = {
+      "cometd.url": "/cometd",
+      "domain.main": "//www.chess.com",
+      "domain.static": "//www.chess.com",
+      "domain.files": "//files.chesscomfiles.com",
+      "domain.live": "//live.chess.com",
+      "domain.live2": "//live2.chess.com",
+      "domain.live3": "//live3.chess.com",
+      "domain.voice": "rtmp://voice.chess.com",
+      "domain.cssjs": "//www.chess.com",
+      "domain.images": "//images.chesscomfiles.com",
+      "domain.avatars": "//avatars.chesscomfiles.com",
+      "domain.baseUrl": "",
+      "isFacebookCanvas": false,
+      "facebookId": "2427617054",
+      "pathToEngineWorker": "/bundles/app/js/vendor/jschessengine/stockfish.6983901b.js",
+      "pathToEngineWorkerAlt": "/bundles/app/js/engine/stockfish.1de0d633.js",
+      "pathToWasmEngine": "/bundles/app/js/vendor/jschessengine/stockfish.6103b42f.bin",
+      "pathToNonWasmEngine": "/bundles/app/js/vendor/jschessengine/stockfish.asm.1abfa10c.js",
+      "pathToKomodoWorker": "/bundles/app/js/vendor/jschessengine/komodo.9ea31da2.js",
+      "pathToWasmKomodo": "/bundles/app/js/vendor/jschessengine/komodo.765d36d5.bin",
+      "pathToNonWasmKomodo": "/bundles/app/js/vendor/jschessengine/komodo.asm.b6f18c99.js",
+      "pathToTorchWorker": "/bundles/app/js/engine/torch.ff2549db.js",
+      "pathToWasmTorch": "/bundles/app/js/engine/torch.94440d8f.wasm",
+      "pathToTorchLiteWorker": "/bundles/app/js/engine/torch-lite.81c1f5f5.js",
+      "pathToWasmTorchLite": "/bundles/app/js/engine/torch-lite.43dcd446.wasm",
+      "pathToExplanationEngineWorker": "/bundles/app/js/vendor/explanation-engine-beta/explanation-engine.3cd949c6.js",
+      "pathToWasmExplanationEngine": "/bundles/app/js/vendor/explanation-engine-beta/explanation-engine.6e4a3c35.wasm",
+      "pathToExplanationEngineWorkerPD": "/bundles/app/js/vendor/explanation-engine-pd/explanation-engine.8b6c0a0d.js",
+      "pathToExplanationEnginePD": "/bundles/app/js/vendor/explanation-engine-pd/explanation-engine.fccda880.wasm",
+      "pathToEcoJson": "/bundles/app/js/engine/books/eco.c7fa19b9.json",
+      "pathToBook": "/bundles/app/js/engine/books/eco.c7fa19b9.json",
+      "pathToBookSmall": "/bundles/app/js/engine/books/eco.c7fa19b9.json",
+      "pathToWebGL": "/bundles/app/js/vendor/webgl_three.61269fce.js",
+      "pathToGamePreviewLoader": "/bundles/web/images/game-preview-loading.8677fb94.png",
+      "pathToPersonalityBooks": {
+                        "aggressive": "/bundles/app/js/engine/books/aggressive.847574a7.bin",
+                  "akiba_rubinstein": "/bundles/app/js/engine/books/akiba_rubinstein.27a1ba7f.bin",
+                  "alekhine": "/bundles/app/js/engine/books/alekhine.78afc9d2.bin",
+                  "alexandra_botez": "/bundles/app/js/engine/books/alexandra_botez.d64a85b6.bin",
+                  "alexandra_kosteniuk": "/bundles/app/js/engine/books/alexandra_kosteniuk.bfba3aea.bin",
+                  "aman_hambleton": "/bundles/app/js/engine/books/aman_hambleton.7df58084.bin",
+                  "andrea_botez": "/bundles/app/js/engine/books/andrea_botez.53326027.bin",
+                  "anish_giri": "/bundles/app/js/engine/books/anish_giri.8726a67e.bin",
+                  "anna_cramling": "/bundles/app/js/engine/books/anna_cramling.b6b03794.bin",
+                  "anna_muzychuk": "/bundles/app/js/engine/books/anna_muzychuk.2785d5ad.bin",
+                  "anna_rudolf": "/bundles/app/js/engine/books/anna_rudolf.c7ed14ff.bin",
+                  "anthony_levin": "/bundles/app/js/engine/books/anthony_levin.33851150.bin",
+                  "anthony_miles": "/bundles/app/js/engine/books/anthony_miles.96ba89dd.bin",
+                  "aron_nimzowitsch": "/bundles/app/js/engine/books/aron_nimzowitsch.e8a3a75c.bin",
+                  "avigail_rosenthal": "/bundles/app/js/engine/books/avigail_rosenthal.c28f3796.bin",
+                  "balanced": "/bundles/app/js/engine/books/balanced.4a60c3bd.bin",
+                  "beginner": "/bundles/app/js/engine/books/beginner.0cfbbbb3.bin",
+                  "benjamin_bok": "/bundles/app/js/engine/books/benjamin_bok.858af1a3.bin",
+                  "bent_larsen": "/bundles/app/js/engine/books/bent_larsen.f0a04521.bin",
+                  "bikfoot_wouter": "/bundles/app/js/engine/books/bikfoot_wouter.deb83ec3.bin",
+                  "book": "/bundles/app/js/engine/books/book.28504e3b.bin",
+                  "botvinnik": "/bundles/app/js/engine/books/botvinnik.8aa707d1.bin",
+                  "capablanca": "/bundles/app/js/engine/books/capablanca.7b15e717.bin",
+                  "carlsen": "/bundles/app/js/engine/books/carlsen.35b9ca73.bin",
+                  "cccopenings": "/bundles/app/js/engine/books/cccopenings.bdfbf7b7.bin",
+                  "christian_pulisic": "/bundles/app/js/engine/books/christian_pulisic.2b04f5d9.bin",
+                  "classical": "/bundles/app/js/engine/books/classical.fabd171a.bin",
+                  "dan_rozovsky": "/bundles/app/js/engine/books/dan_rozovsky.812207a0.bin",
+                  "daniel_naroditsky": "/bundles/app/js/engine/books/daniel_naroditsky.ec6d2390.bin",
+                  "daryl_morey": "/bundles/app/js/engine/books/daryl_morey.09d12a5e.bin",
+                  "dawid_czerw": "/bundles/app/js/engine/books/dawid_czerw.c80432c7.bin",
+                  "ding": "/bundles/app/js/engine/books/ding.98c63895.bin",
+                  "dodge_coates": "/bundles/app/js/engine/books/dodge_coates.7d0ade1b.bin",
+                  "dylan_rittman": "/bundles/app/js/engine/books/dylan_rittman.7bdc1497.bin",
+                  "eric_hansen": "/bundles/app/js/engine/books/eric_hansen.d890b525.bin",
+                  "erik_allebest": "/bundles/app/js/engine/books/erik_allebest.2dfb86d6.bin",
+                  "ethan_metzger": "/bundles/app/js/engine/books/ethan_metzger.549af14c.bin",
+                  "euwe": "/bundles/app/js/engine/books/euwe.fbc309c1.bin",
+                  "f-pawner": "/bundles/app/js/engine/books/f-pawner.bb8a15f1.bin",
+                  "fabiano_caruana": "/bundles/app/js/engine/books/fabiano_caruana.5642aaea.bin",
+                  "fischer": "/bundles/app/js/engine/books/fischer.c93e412d.bin",
+                  "gambit": "/bundles/app/js/engine/books/gambit.3ef59ed2.bin",
+                  "hou_yifan": "/bundles/app/js/engine/books/hou_yifan.62489211.bin",
+                  "ian_nepomniachtchi": "/bundles/app/js/engine/books/ian_nepomniachtchi.387e0d9f.bin",
+                  "indian": "/bundles/app/js/engine/books/indian.07a754a0.bin",
+                  "irina_krush": "/bundles/app/js/engine/books/irina_krush.b0af3f1a.bin",
+                  "james_canty": "/bundles/app/js/engine/books/james_canty.63b14dec.bin",
+                  "jeremy_kane": "/bundles/app/js/engine/books/jeremy_kane.75aeaa92.bin",
+                  "jonathan_cannon": "/bundles/app/js/engine/books/jonathan_cannon.232d257c.bin",
+                  "joseph_votto": "/bundles/app/js/engine/books/joseph_votto.c5c5711b.bin",
+                  "judit_polgar": "/bundles/app/js/engine/books/judit_polgar.867b5694.bin",
+                  "karpov": "/bundles/app/js/engine/books/karpov.f77e030c.bin",
+                  "kasparov": "/bundles/app/js/engine/books/kasparov.fbd33443.bin",
+                  "kassa_korley": "/bundles/app/js/engine/books/kassa_korley.b64ed838.bin",
+                  "kenneth_wilber": "/bundles/app/js/engine/books/kenneth_wilber.185811d9.bin",
+                  "kevin_bordi": "/bundles/app/js/engine/books/kevin_bordi.9cd76731.bin",
+                  "komodo": "/bundles/app/js/engine/books/komodo.bb8b6a25.bin",
+                  "korchnoi": "/bundles/app/js/engine/books/korchnoi.df9a9ce8.bin",
+                  "krikor_mekhitarian": "/bundles/app/js/engine/books/krikor_mekhitarian.43b3d4cd.bin",
+                  "lasker": "/bundles/app/js/engine/books/lasker.9d8fc690.bin",
+                  "leo_stokes": "/bundles/app/js/engine/books/leo_stokes.778f6211.bin",
+                  "levon_aronian": "/bundles/app/js/engine/books/levon_aronian.adcd3c3b.bin",
+                  "levy_rozman": "/bundles/app/js/engine/books/levy_rozman.024e3929.bin",
+                  "luis_fernandez_siles": "/bundles/app/js/engine/books/luis_fernandez_siles.12a08971.bin",
+                  "martin_enev": "/bundles/app/js/engine/books/martin_enev.49fb8880.bin",
+                  "matt_turner": "/bundles/app/js/engine/books/matt_turner.ccdc19ad.bin",
+                  "maurice_ashley": "/bundles/app/js/engine/books/maurice_ashley.fb4474e5.bin",
+                  "mike_klein": "/bundles/app/js/engine/books/mike_klein.e7c0d12f.bin",
+                  "nakamura": "/bundles/app/js/engine/books/nakamura.1b408716.bin",
+                  "naycir_gurpinar": "/bundles/app/js/engine/books/naycir_gurpinar.017ff300.bin",
+                  "offbeat": "/bundles/app/js/engine/books/offbeat.c125e5bf.bin",
+                  "paul_morphy": "/bundles/app/js/engine/books/paul_morphy.2a75be3d.bin",
+                  "petrosian": "/bundles/app/js/engine/books/petrosian.1488f78a.bin",
+                  "phiona_mutesi": "/bundles/app/js/engine/books/phiona_mutesi.03673f43.bin",
+                  "positional": "/bundles/app/js/engine/books/positional.a1fac9f6.bin",
+                  "qiyu_zhou": "/bundles/app/js/engine/books/qiyu_zhou.e1e573ce.bin",
+                  "quick_queen": "/bundles/app/js/engine/books/quick_queen.2ec5181f.bin",
+                  "rensch": "/bundles/app/js/engine/books/rensch.f0d14299.bin",
+                  "reuben_fine": "/bundles/app/js/engine/books/reuben_fine.60466cdf.bin",
+                  "richard_rapport": "/bundles/app/js/engine/books/richard_rapport.32ab0f3c.bin",
+                  "robert_hess": "/bundles/app/js/engine/books/robert_hess.38e30a88.bin",
+                  "rory_smith": "/bundles/app/js/engine/books/rory_smith.5b603a9f.bin",
+                  "sam_copeland": "/bundles/app/js/engine/books/sam_copeland.8c022b9c.bin",
+                  "samay_raina": "/bundles/app/js/engine/books/samay_raina.0c633f9e.bin",
+                  "samuel_reshevsky": "/bundles/app/js/engine/books/samuel_reshevsky.d3d98935.bin",
+                  "savielly_tartakower": "/bundles/app/js/engine/books/savielly_tartakower.d2de6a1a.bin",
+                  "smyslov": "/bundles/app/js/engine/books/smyslov.e2ffdf87.bin",
+                  "spassky": "/bundles/app/js/engine/books/spassky.f1f87ea0.bin",
+                  "steinitz": "/bundles/app/js/engine/books/steinitz.875bb2f4.bin",
+                  "tagir_nafikov": "/bundles/app/js/engine/books/tagir_nafikov.0e71ab52.bin",
+                  "tal": "/bundles/app/js/engine/books/tal.0a811e26.bin",
+                  "ulf_andersson": "/bundles/app/js/engine/books/ulf_andersson.8b253379.bin",
+                  "vidit_gujrathi": "/bundles/app/js/engine/books/vidit_gujrathi.2f1e8a95.bin",
+                  "vishy_anand": "/bundles/app/js/engine/books/vishy_anand.3c6cff4e.bin",
+                  "vladimir_kramnik": "/bundles/app/js/engine/books/vladimir_kramnik.0c154e06.bin",
+                  "wesley_so": "/bundles/app/js/engine/books/wesley_so.f8b28796.bin",
+                  "will_stewart": "/bundles/app/js/engine/books/will_stewart.6bde6337.bin",
+                  "winger": "/bundles/app/js/engine/books/winger.77d88765.bin",
+                    },
+      "threadedEnginePaths": {
+        "stockfish": {
+          "fakeWorker": {
+            "loader": "/bundles/app/js/engine/stockfish-nnue-16-no-Worker.1ed4c83b.js",
+            "engine": "/bundles/app/js/engine/stockfish-nnue-16-no-Worker.22822879.wasm",
+          },
+          "multiThreaded": {
+            "loader": "/bundles/app/js/engine/stockfish-nnue-16.840e654f.js",
+            "engine": "/bundles/app/js/engine/stockfish-nnue-16.9ffe613d.wasm",
+            "nnue": "/bundles/app/js/engine/nn-5af11540bbfe.17051dfd.nnue",
+          },
+          "multiThreadedNoSIMD": {
+            "loader": "/bundles/app/js/engine/stockfish-nnue-16-no-simd.eeddca83.js",
+            "engine": "/bundles/app/js/engine/stockfish-nnue-16-no-simd.86f5189e.wasm",
+          },
+          "singleThreaded": {
+            "loader": "/bundles/app/js/engine/stockfish-single.830cf9cc.js",
+            "engine": "/bundles/app/js/engine/stockfish-single.8ffa2b70.wasm",
+          },
+          "asm": "/bundles/app/js/engine/stockfish.asm.16fa8540.js",
+          "fakeWorkerBrowserVersions": [{"browser":"chrome","version":109}],
+          "nnue": "/bundles/app/js/engine/nn-5af11540bbfe.17051dfd.nnue",
+        },
+      },
+      "oldThemes": false,
+      "isPlay": false,
+      "isStaff": false,
+      "noAvatar": '/bundles/web/images/user-image.007dad08.svg',
+      "wdlJsonModel": '/bundles/web/wdl/model.json',
+      "wdlWeights": '/bundles/web/wdl/group1-shard1of1.bin',
+      "ad.hideAds": false,
+      "ad.disabledAds": []
+    };
+
+    Config.adCustomPath = '';
+
+    Config.pathToTinyMCE = "/bundles/app/js/tinymce-lazy.client.319424b7.js",
+
+    
+    
+          Config.pathToDiagramViewerCSS =  "/bundles/app/css/diagram-viewer.client.d29f3b3a.css",
+      Config.pathToDiagramViewerJS = "/bundles/app/js/diagram-viewer.client.7cdce842.js",
+    
+        window.__CHESSCOM_RTL__ = false;
+
+        window.chesscom = window.chesscom || {};
+    window.chesscom.clientMetricsDomain = 'https://client-metrics-cf.chess.com';
+
+        window.chesscom.showAds = Boolean(1);
+
+        //<![CDATA[
+    context = {"freeTrial":null,"activeMembership":null,"i18n":{"locale":"en_US","contentLanguage":"any","mobile":[]},"csrf":{"token":"087adb90f8c5.C-8xNwxPHltmipz0l1mWoG_lXAlCMKEWeH84eiibCLo.Z7tUeHYYSS4LvNia2TLm2CiRC0EdcuUkFzAOS3zvW-tSg1wAOyJ6dj756w","login":"2115e0d5cc0d5d7c2ce0f4.tWz-LGBKZpfPSWoE9QIRS2ty8mMjqQ4wh1vqaVJugu0.xCa_SSc-FsD2CA1tlG1WIy8fuzBq9ksC6jGbBCMKwZTxKJ9gMz8_uvkmIw","logout":"73325218ee038b11c1b7accb78961.fLwAWpOUdTJXbWM1QezyWzLCuJk5KKeRDgDxAmuPBUo.LO9OCNXiN3sCX1ZMK8HGOGOayKpIfMzBYXSXbF34dBAS_zIYzMQhfD4uIg"},"amplitudeKey":"5cc41a1e56d0ee35d4c85d1d4225d2d1","iterableKey":"f771b86cf083441f992a4bb01d3d600f","adyen":{"environment":"live","integrity":"sha384-O0Q35c47I1ojd1zrD78yWAs+r5gytAjBC\/sxwZqgQW5z9hDbAFM49z8SViprrDwm","clientKey":"live_7STEYX735RGTTEZMSKIVNX5C2YU2QN5B","key":"10001|D97C83A6DB30A889AAC517489C56512C733B365B8E5E2E5CB5FD860751EC3EC14A145FE6FD2EF1A338D375DB3D9F7B988631B64D4B9C9BE3DE007D8C60649F2BAC7B0798A869892B683110B2FE53E89EBB9923A0EF7113FDEEEBC57FDB21AA8F99D3757DB7C8A8E6458D3B628B357396E77CD3C31158B203BEDAF3AC56E11A94C3BA745CAE7847B6C7D5C6B1D6E68204147A9B98EC334560F94A484FC5335F8AA4716BF13E0153B9B0E7FF75384449563F935AF0173C5F8F1CBE20B1C91593C2F7AF07A83E48F31DA8F4F5959687A682823216342C6E1B36771AC42C9BF0E03F443D07D239F25EB916BC15A908796C698D296130A9BA4A925684416F9C759143","merchant":"ChesscomCOM","originKey":"pub.v2.1114841580210853.aHR0cHM6Ly93d3cuY2hlc3MuY29t.g3hcnpsxbNsbEo3XJP_laQJwLDCkoYfA1YmHG6Kns8g","sdk":"https:\/\/checkoutshopper-live.adyen.com\/checkoutshopper\/sdk\/5.23.1\/adyen.js"},"iterableMuteApiCallsFeature":false,"paypalClientId":"AX68j9lUfn3i3vsUPLiDT-jSr3n_1h0nbZtUSRPXXy3-O6iMSX-adfP6PB0qcTbNbbqCaHm6MiDy4JzE"};
+    //]]>
+    
+    context.version = '20231222115714';
+    context.branch = 'master';
+    context.commit = '07dac4eae3e83fad8119976111ad705d2e5a947d';
+    context.requestId = 'bd9964b82a0eeb4f2b184fde8e76da5b';
+    context.server = 'web118.chess.com';
+    context.locale = 'en';
+    context.environment = 'prod';
+    context.cookies = {
+      app: '',
+    };
+
+    context.ip = '20.106.153.100';
+    context.chessboardBeta = true;
+    context.route = 'web_master_games_search_short';
+  </script>
+
+    <script language="javascript">
+    if ('serviceWorker' in navigator) {
+      navigator.serviceWorker.getRegistrations().then(registrations => {
+        registrations.forEach(registration => {
+          if (registration.active.scriptURL.includes('/service-worker.client.js')) {
+            registration.unregister();
+          }
+        });
+      }).catch(() => { });
+    }
+  </script>
+
+
+<script defer src="/bundles/app/js/client/es6-translations/es6-translation.en_US.2a8e1d60.js"></script>
+
+<script src="/bundles/app/js/vue.dll.7e341c9b.js"></script>
+
+
+      
+      
+  
+      <script defer  src="/bundles/app/js/global.client.bb5811ca.js">
+    </script>
+  
+  
+
+
+
+
+        <script
+      data-src="/bundles/app/js/checkmate.client.21c923ef.js">
+    </script>
+  
+
+      
+      
+  
+      <script defer  data-src="/bundles/app/js/ready-to-play-banner.client.dc638bef.js">
+    </script>
+  
+  
+
+  
+      <script>
+      window.chesscom = window.chesscom || {};
+      window.chesscom.enableSentry = false;
+      window.chesscom.enableSentryHP = true;
+      window.chesscom.sentry = {
+        appCookie: '',
+        incrementCallback: 'https://www.chess.com/metrics/fe_sentry',
+        key: '',
+      }
+    </script>
+
+        
+      
+  
+      <script defer  src="/bundles/app/js/sentry.client.00d8ba90.js">
+    </script>
+  
+  
+  
+  
+  
+
+
+      
+  
+
+      
+      
+  
+      <script defer  src="/bundles/app/js/master-games-search.client.047eb50c.js">
+    </script>
+  
+  
+
+            
+    
+      
+  
+      <script defer  src="/bundles/app/js/navigation.client.0af213e2.js">
+    </script>
+  
+  
+  
+              <script defer src="/bundles/app/js/facebook-sdk.client.c9cf14ae.js"></script>
+            <script src="https://ssl.kaptcha.com/collect/sdk?m=850100" crossorigin></script>
+  
+  
+  <div id="checkmate"></div> 
+      <div id="toaster-center"></div>
+  
+      <div id="subscription-status-modal"></div>
+    <div id="tenure-based-offer-modal"></div>
+  
+      <div id="league-promotion-modal"></div>
+    <div id="leagues-division-started-modal"></div>
+    <div id="league-promotion-share-modal"></div>
+  
+        <div id="board-popover"></div>
+    <div id="confirm-popover"></div>
+    <div id="confirm-popover-inline"></div>
+    <div id="form-datepicker"></div>
+    <div id="language-picker-modal"></div>
+    <div id="message-popover"></div>
+    <div id="modal-video"></div>
+    <div id="trophy-popover"></div>
+    <div id="user-popover"></div>
+    
+          <div id="ready-to-play-banner"></div>
+      
+            <div id="login-modal"></div>
+    
+          <div id="authentication-modal"></div>
+      
+  <div id="guest-modal"></div>
+  <div id="report-modal"></div>
+
+    
+        
+<script>
+  window.context.adsSection = 'resources';
+</script>
+
+    
+      
+  
+      <script defer  src="/bundles/app/js/global-ads.client.a42e8cb6.js">
+    </script>
+  
+  
+  </body>
+</html>
