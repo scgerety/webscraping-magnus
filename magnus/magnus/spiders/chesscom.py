@@ -19,11 +19,11 @@ class ChesscomSpider(scrapy.Spider):
     start_urls = [f"file://{url}"] # points to file on line in "url" variable
 
     def parse(self, response):
-        # Find a reasonably-sized table
-        for child in response.xpath('//table'):
-            if len(child.xpath('tr')) >=10:
-                table = child
-                break
+        # # Find a reasonably-sized table
+        # for child in response.xpath('//table'):
+        #     if len(child.xpath('tr')) >=10:
+        #         table = child
+        #         break
         
         # # Find table heads (commented out)
         # tablehead = response.xpath('//table')[0].xpath('thead')
