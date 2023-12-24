@@ -30,8 +30,11 @@ class ChesscomSpider(scrapy.Spider):
         # headers = [th.extract() for th in tablehead.xpath('tr').xpath('th/text()')]
         
         # Set up table creation and query
-        magnus_db = "CREATE TABLE magnus ([Player1] TEXT, [Rating1] TEXT, [Player2] TEXT, [Rating2] TEXT, [OpeningMoves] TEXT, [OpeningName] TEXT, [Result] TEXT, [NumMoves] TEXT, [Year] TEXT)"
-        query = "INSERT INTO magnus ([Player1], [Rating1], [Player2], [Rating2], [OpeningMoves], [OpeningName], [Result]) VALUES (?, ?, ?, ?, ?, ?, ?)"
+        magnus_db = """
+            DROP TABLE IF EXISTS magnus;
+            CREATE TABLE magnus ([Player1] TEXT, [Rating1] TEXT, [Player2] TEXT, [Rating2] TEXT, [OpeningMoves] TEXT, [OpeningName] TEXT, [Result] TEXT, [NumMoves] TEXT, [Year] TEXT);
+        """
+        query = "INSERT INTO magnus ([Player1], [Rating1], [Player2], [Rating2], [OpeningMoves], [OpeningName], [Result]) VALUES (?, ?, ?, ?, ?, ?, ?);"
         connection = sqlite3.connect("chesscom.db")
         cursor = connection.cursor()
 
